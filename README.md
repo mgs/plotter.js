@@ -1,2 +1,2 @@
 # plotter.js
-Library for communicating with vintage pen plotters both for plotting or real-time interaction with the device.
+Library for interacting with HPGL-based serial pen plotters from Javascript.
